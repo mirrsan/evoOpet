@@ -1,0 +1,16 @@
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.deps.json
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.runtimeconfig.json
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.runtimeconfig.dev.json
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.dll
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.pdb
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.csproj.CoreCompileInputs.cache
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.RazorAssemblyInfo.cache
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.RazorAssemblyInfo.cs
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.AssemblyInfoInputs.cache
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.AssemblyInfo.cs
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.RazorTargetAssemblyInfo.cache
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.dll
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.pdb
+C:\VS_project\ZadatakNeki\ZadatakNeki\bin\Debug\netcoreapp2.1\ZadatakNeki.xml
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.xml
+C:\VS_project\ZadatakNeki\ZadatakNeki\obj\Debug\netcoreapp2.1\ZadatakNeki.csprojAssemblyReference.cache
